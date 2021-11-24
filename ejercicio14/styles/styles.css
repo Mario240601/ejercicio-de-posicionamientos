@@ -1,0 +1,38 @@
+.d1{
+	position:absolute;
+
+
+	
+}
+
+#d1{
+
+position: absolute;
+left:130px;
+}
+
+.d2{
+
+position: absolute;
+left:260px;
+}
+
+.d3{
+position: absolute;
+left: 520px;}
+
+
+
+#d2{
+
+position: absolute;
+left: 390px;}
+
+
+div{
+border: 2px solid blue;
+background-color: lightblue;
+color: blue;
+width: 100px;
+padding-top: 10px;
+}
